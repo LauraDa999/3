@@ -1,9 +1,12 @@
 # 3TercerRepo
 PRIMER PUNTO: 
-Diagrama para la si tiene Raiz exacta o no
+Diagrama Raiz exacta o no
 
 ![image](https://github.com/LauraDa999/3/assets/141860731/de3b4748-f143-424f-a07a-e1aeb4e88be4)
 
+
+
+PSEUDOCODIGO DE RAIZ EXACTA O NO
 ```
 
 n: Número natural
@@ -33,8 +36,22 @@ Sino
 FIN
 
 ```
+
+
+
+ 
+
 SEGUNDO PUNTO:
-Diagrama para numeros primos
+
+DIAGRAMA: Para numeros primos
+
+
+
+![image](https://github.com/LauraDa999/3/assets/141860731/476b1404-b36a-4aa2-8481-58ec75d34b94)
+
+
+
+
 
 
 
