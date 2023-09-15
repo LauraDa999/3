@@ -63,37 +63,18 @@ DIAGRAMA: Para numeros primos
 PSEUDOCODIGO NUMEROS PRIMOS:
 
 ```
+x : entero
+y : lista que contega (2,3,5,7)
 
-n: Número natural
-X: Número natural
-X: X</n
-
-Inicio
-
-Inserte n
- leer n
-
-Si
- n: 1 Entonces
-  Escrbir("1 No es un número primo)
-    Fin mientras
- n:2 Entonces
-  Escribir ("2 No es un número primo)
-fin mientras
-
-Sino
- si modulo ( n & X = 0)
-  mientras n = X and pertenezcan al conjunto de los pares (2n) entonces
-   Escribir ("n No es un número primo)
-fin mientras
-
-Sino
- si modulo ( n % X = 0) Entonces
-  Escribir ("n es un número primo)
-fin mientras
-
-Fin
-
+inicio
+  x := un numero entero
+  Mientras (x > 1) hacer
+    Si modulo (x,2 valores de y (2,3,5,7) != 0
+      escribir ("x es primo")
+    sino
+      y := y - 1
+  fin mientras
+fin	  
 ```
 
 
